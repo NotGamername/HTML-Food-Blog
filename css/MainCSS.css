@@ -34,7 +34,7 @@ a {
     position: absolute;
     display: inline;
     text-align: center;
-    left: 8%;
+    left: 7%;
     /* margin-left: auto;
     margin-right: auto; */
 }
@@ -56,7 +56,7 @@ a:hover {
 a.chicken {
     position: relative;
     display: inline-block;
-    width: 20%;
+    width: 13%;
     font-size: 30px;
     /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
@@ -69,7 +69,7 @@ a.chicken {
 a.fish {
     position: relative;
     display: inline-block;
-    width: 20%;
+    width: 13%;
     font-size: 30px;
     /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
@@ -82,7 +82,7 @@ a.fish {
 a.steak {
     position: relative;
     display: inline-block;
-    width: 20%;
+    width: 13%;
     font-size: 30px;
     /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
@@ -95,7 +95,35 @@ a.steak {
 a.pork {
     position: relative;
     display: inline-block;
-    width: 20%;
+    width: 13%;
+    font-size: 30px;
+    /* font-style: italic; */
+    font-family: 'Snell Roundhand', cursive;
+    color: black;
+    background-color: ghostwhite;
+    padding: 10px;
+    /* border: 1px solid black;
+    margin: auto; */
+}
+
+a.veg {
+    position: relative;
+    display: inline-block;
+    width: 13%;
+    font-size: 30px;
+    /* font-style: italic; */
+    font-family: 'Snell Roundhand', cursive;
+    color: black;
+    background-color: ghostwhite;
+    padding: 10px;
+    /* border: 1px solid black;
+    margin: auto; */
+}
+
+a.restaurant {
+    position: relative;
+    display: inline-block;
+    width: 13%;
     font-size: 30px;
     /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;

@@ -66,6 +66,23 @@ a.home:hover {
     /* -webkit-text-stroke: 1px black; */
 }
 
+a.home_r {
+    position: relative;
+    display: block;
+    left: 44%;
+    width: 12%;
+    font-size: 30px;
+    font-family: 'Snell Roundhand', cursive;
+    color: black;
+    /* border: 1px solid black;
+    margin: auto; */
+}
+a.home_r:hover {
+    background: none;
+    color: ghostwhite;
+    /* -webkit-text-stroke: 1px black; */
+}
+
 a.chicken {
     position: relative;
     display: inline-block;

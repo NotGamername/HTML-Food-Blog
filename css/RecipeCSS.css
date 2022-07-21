@@ -135,7 +135,6 @@ a.pork {
     /* border: 1px solid black;
     margin: auto; */
 }
-
 a.veg {
     position: relative;
     display: inline-block;
@@ -149,7 +148,6 @@ a.veg {
     /* border: 1px solid black;
     margin: auto; */
 }
-
 a.restaurant {
     position: relative;
     display: inline-block;
@@ -164,28 +162,43 @@ a.restaurant {
     margin: auto; */
 }
 
-p.rintro {
+p {
     background-color: ghostwhite;
-    margin-top: 45px;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-    text-align: center;
+}
+p.rintro {
+    margin-top: 45px;
+    margin-bottom: 45px;
     padding: 30px 20px 35px;
     font-size: 30px;
     color: black;
     /* border: 1px solid silver; */
     /* -webkit-text-stroke: 1px salmon; */
 }
+p.list {
+    margin-top: 45px;
+    margin-bottom: 0;
+    padding: 25px 20px 0px;
+}
+b.title {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    font-family: 'Snell Roundhand', cursive;
+}
 
 ul {
     background-color: ghostwhite;
-    margin-top: 45px;
+    margin-top: 0;
+    margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
     text-align: left;
-    padding: 30px 20px 35px;
+    padding: 20px 20px 30px;
     font-size: 20px;
     color: black;
 }

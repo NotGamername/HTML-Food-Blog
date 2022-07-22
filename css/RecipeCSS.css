@@ -294,6 +294,7 @@ ul {
     padding: 20px 20px 30px;
     font-size: 20px;
     color: black;
+    list-style-position: inside;
 }
 
 i.sub {
@@ -306,4 +307,32 @@ img.linksym {
     position: relative;
     display: inline;
     vertical-align: middle;
+}
+
+div.nav {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: block;
+    width: 11%;
+    margin: auto;
+    padding: 0;
+}
+ul.nav {
+    padding: 3px;
+    background-color: rgba(248,248,255,0.8);
+    width: auto;
+    list-style-position: inside;
+}
+
+a.nav {
+    font-size: 15px;
+    color: black;
+}
+
+li.nav {
+    list-style-type: circle;
+}
+li.nav:hover {
+    list-style-type: disc;
 }

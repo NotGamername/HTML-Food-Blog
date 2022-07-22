@@ -299,3 +299,11 @@ ul {
 i.sub {
     font-size: 18px;
 }
+
+img.linksym {
+    height: 18px;
+    width: 18px;
+    position: relative;
+    display: inline;
+    vertical-align: middle;
+}

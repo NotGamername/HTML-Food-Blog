@@ -34,7 +34,6 @@ a {
     /* margin-left: auto;
     margin-right: auto; */
 }
-
 a.home {
     position: relative;
     display: block;
@@ -51,7 +50,6 @@ a.home:hover {
     color: ghostwhite;
     /* -webkit-text-stroke: 1px black; */
 }
-
 a.home_r {
     position: relative;
     display: block;
@@ -294,7 +292,7 @@ ul {
     padding: 20px 20px 30px;
     font-size: 20px;
     color: black;
-    list-style-position: inside;
+    list-style-position: outside;
 }
 i.sub {
     font-size: 18px;
@@ -310,7 +308,7 @@ img.linksym {
 
 div.nav {
     position: fixed;
-    bottom: 0;
+    bottom: 45px;
     right: 0;
     display: block;
     width: 11%;

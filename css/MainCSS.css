@@ -157,3 +157,24 @@ img.center {
     margin-top: 45px;
     width: 50%;
 }
+
+a.site1 {
+    position: relative;
+    color: black;
+    text-align: left;
+    left: 0;
+}
+a.site2 {
+    position: relative;
+    color: black;
+    text-align: left;
+    left: 0;
+}
+a.site1:hover {
+    background: none;
+    color: gray;
+}
+a.site2:hover {
+    background: none;
+    color: gray;
+}

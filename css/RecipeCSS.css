@@ -16,7 +16,7 @@ h1.header {
     margin-top: 0;
     margin-bottom: 45px;
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     background: linear-gradient(to left,
             rgba(255,235,205,0),
             rgba(255,235,205,0.4),
@@ -40,6 +40,7 @@ a {
     margin-right: auto; */
 }
 a.home {
+    padding-top: 10px;
     position: relative;
     display: block;
     left: 47.5%;
@@ -47,8 +48,6 @@ a.home {
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
     color: black;
-    /* border: 1px solid black;
-    margin: auto; */
 }
 a.home:hover {
     background: none;
@@ -61,10 +60,9 @@ a.home_r {
     left: 44%;
     width: 12%;
     font-size: 30px;
+    padding-top: 10px;
     font-family: 'Snell Roundhand', cursive;
     color: black;
-    /* border: 1px solid black;
-    margin: auto; */
 }
 a.home_r:hover {
     background: none;

@@ -64,78 +64,66 @@ a.chicken {
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.fish {
     position: relative;
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.steak {
     position: relative;
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.pork {
     position: relative;
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.veg {
     position: relative;
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.restaurant {
     position: relative;
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 
 p.intro {
@@ -162,7 +150,7 @@ img.center {
     margin-right: auto;
     margin-top: 45px;
     width: 50%;
-    /* border-radius: 20px; */
+    border-radius: 10px;
 }
 
 a.site1 {

@@ -75,13 +75,11 @@ a.chicken {
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.chicken:hover {
     /* color: ghostwhite;
@@ -104,13 +102,11 @@ a.fish {
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.fish:hover {
     /* color: ghostwhite;
@@ -133,13 +129,11 @@ a.steak {
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.steak:hover {
     /* color: ghostwhite;
@@ -162,13 +156,11 @@ a.pork {
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.pork:hover {
     /* color: ghostwhite;
@@ -191,13 +183,11 @@ a.veg {
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.veg:hover {
     /* color: ghostwhite;
@@ -220,13 +210,11 @@ a.restaurant {
     display: inline-block;
     width: 13%;
     font-size: 30px;
-    /* font-style: italic; */
     font-family: 'Snell Roundhand', cursive;
     color: black;
     background-color: ghostwhite;
     padding: 10px;
-    /* border: 1px solid black;
-    margin: auto; */
+    border-radius: 10px;
 }
 a.restaurant:hover {
     /* color: ghostwhite;

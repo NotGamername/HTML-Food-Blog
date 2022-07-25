@@ -309,7 +309,7 @@ img.linksym {
 div.nav {
     position: fixed;
     bottom: 45px;
-    right: 0;
+    right: 1.5%;
     display: block;
     width: 11%;
     margin: auto;
@@ -320,6 +320,9 @@ ul.nav {
     background-color: rgba(248,248,255,0.8);
     width: auto;
     list-style-position: inside;
+    border-radius: 20px;
+    padding-top: 3%;
+    padding-bottom: 3%;
 }
 a.nav {
     font-size: 15px;

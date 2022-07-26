@@ -35,7 +35,7 @@ a {
     position: absolute;
     display: inline;
     text-align: center;
-    left: 7%;
+    left: 6.7%;
     /* margin-left: auto;
     margin-right: auto; */
 }
@@ -80,6 +80,7 @@ a.chicken {
     background-color: ghostwhite;
     padding: 10px;
     border-radius: 10px;
+    border: thin solid black;
 }
 a.chicken:hover {
     /* color: ghostwhite;
@@ -107,6 +108,7 @@ a.fish {
     background-color: ghostwhite;
     padding: 10px;
     border-radius: 10px;
+    border: thin solid black;
 }
 a.fish:hover {
     /* color: ghostwhite;
@@ -134,6 +136,7 @@ a.steak {
     background-color: ghostwhite;
     padding: 10px;
     border-radius: 10px;
+    border: thin solid black;
 }
 a.steak:hover {
     /* color: ghostwhite;
@@ -161,6 +164,7 @@ a.pork {
     background-color: ghostwhite;
     padding: 10px;
     border-radius: 10px;
+    border: thin solid black;
 }
 a.pork:hover {
     /* color: ghostwhite;
@@ -188,6 +192,7 @@ a.veg {
     background-color: ghostwhite;
     padding: 10px;
     border-radius: 10px;
+    border: thin solid black;
 }
 a.veg:hover {
     /* color: ghostwhite;
@@ -215,6 +220,7 @@ a.restaurant {
     background-color: ghostwhite;
     padding: 10px;
     border-radius: 10px;
+    border: thin solid black;
 }
 a.restaurant:hover {
     /* color: ghostwhite;
@@ -249,21 +255,22 @@ p {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
 }
 p.rintro {
     margin-top: 45px;
     margin-bottom: 45px;
     padding: 30px 20px 35px;
+    width: 40%;
     font-size: 30px;
     color: black;
-    /* border: 1px solid silver; */
-    /* -webkit-text-stroke: 1px salmon; */
+    border-radius: 10px;
+    border: medium double;
 }
 p.list {
     margin-top: 45px;
     margin-bottom: 0;
     padding: 25px 20px 0px;
+    width: 70%;
 }
 b.title {
     text-align: center;
@@ -299,8 +306,8 @@ img.linksym {
 
 div.nav {
     position: fixed;
-    bottom: 45px;
-    right: 1.5%;
+    bottom: 4%;
+    right: 1.4%;
     display: block;
     width: 11%;
     margin: auto;
@@ -312,6 +319,7 @@ ul.nav {
     width: auto;
     list-style-position: inside;
     border-radius: 10px;
+    border: medium double black;
     padding-top: 3%;
     padding-bottom: 3%;
 }

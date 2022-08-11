@@ -36,6 +36,12 @@ h1.header {
     font-family: 'Snell Roundhand', cursive;
 }
 
+div.menu {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 a {
     position: absolute;
     display: inline;

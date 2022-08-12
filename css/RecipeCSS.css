@@ -11,9 +11,12 @@ body {
 }
 
 div.menu {
+    position: relative;
+    display: inline-block;
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 h1.header {
@@ -80,6 +83,7 @@ a.chicken {
     position: relative;
     display: inline-block;
     width: 13%;
+    left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
     color: black;
@@ -108,6 +112,7 @@ a.fish {
     position: relative;
     display: inline-block;
     width: 13%;
+    left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
     color: black;
@@ -136,6 +141,7 @@ a.steak {
     position: relative;
     display: inline-block;
     width: 13%;
+    left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
     color: black;
@@ -164,6 +170,7 @@ a.pork {
     position: relative;
     display: inline-block;
     width: 13%;
+    left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
     color: black;
@@ -192,6 +199,7 @@ a.veg {
     position: relative;
     display: inline-block;
     width: 13%;
+    left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
     color: black;
@@ -220,6 +228,7 @@ a.restaurant {
     position: relative;
     display: inline-block;
     width: 13%;
+    left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
     color: black;

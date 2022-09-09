@@ -82,7 +82,7 @@ a.home_r:hover {
 a.chicken {
     position: relative;
     display: inline-block;
-    width: 13%;
+    width: 10%;
     left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
@@ -111,7 +111,7 @@ a.chicken:hover {
 a.fish {
     position: relative;
     display: inline-block;
-    width: 13%;
+    width: 10%;
     left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
@@ -140,7 +140,7 @@ a.fish:hover {
 a.steak {
     position: relative;
     display: inline-block;
-    width: 13%;
+    width: 10%;
     left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
@@ -169,7 +169,7 @@ a.steak:hover {
 a.pork {
     position: relative;
     display: inline-block;
-    width: 13%;
+    width: 10%;
     left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
@@ -198,7 +198,7 @@ a.pork:hover {
 a.veg {
     position: relative;
     display: inline-block;
-    width: 13%;
+    width: 10%;
     left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
@@ -227,7 +227,7 @@ a.veg:hover {
 a.restaurant {
     position: relative;
     display: inline-block;
-    width: 13%;
+    width: 10%;
     left: 0;
     font-size: 30px;
     font-family: 'Snell Roundhand', cursive;
@@ -238,6 +238,35 @@ a.restaurant {
     border: thin solid black;
 }
 a.restaurant:hover {
+    /* color: ghostwhite;
+    background-color: black; */
+    background: linear-gradient(to left,
+    rgba(255,235,205),
+    blanchedalmond,
+    navajowhite,
+    bisque,
+    bisque,
+    bisque,
+    navajowhite,
+    blanchedalmond,
+    rgba(255,235,205));
+    color: black;
+    /* -webkit-text-stroke: 1px black; */
+}
+a.try {
+    position: relative;
+    display: inline-block;
+    width: 10%;
+    left: 0;
+    font-size: 30px;
+    font-family: 'Snell Roundhand', cursive;
+    color: black;
+    background-color: ghostwhite;
+    padding: 10px;
+    border-radius: 10px;
+    border: thin solid black;
+}
+a.try:hover {
     /* color: ghostwhite;
     background-color: black; */
     background: linear-gradient(to left,
